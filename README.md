@@ -24,3 +24,6 @@ abra o terminal na pasta do projeto e digite o comando **npx wdio run wdio.conf.
 # obtendo relatorios
 depois da execução digite o comando **allure generate allure-results --clean && allure open**
 para ver o relatorio de teste
+
+# documentos
+O Plano de Teste e Relatorio de Erros estão na pasta **documents**
